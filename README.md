@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SH1RO</h1>
-<h3 align="center">Best Python backend developer</h3>
+<h3 align="center">Python backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalimuro&label=Profile%20views&color=0e75b6&style=flat" alt="kalimuro" /> </p>
 
